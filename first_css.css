@@ -14,3 +14,9 @@
   line-height: 50px;
   padding-left: 60px;
 }
+
+body
+{
+  background-image: url(https://i.pinimg.com/originals/78/c4/e4/78c4e47ae055f4de25eb04640d5c22fe.jpg);
+  color: antiquewhite;
+}
