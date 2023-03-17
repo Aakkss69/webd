@@ -18,5 +18,16 @@
 body
 {
   background-image: url(images/back.jpg);
-  color: antiquewhite
+  color: antiquewhite;
+}
+
+hr
+{
+  border-style:dotted none none none;
+  width:30%;
+  height: 50%;
+  border-width: 10px;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
